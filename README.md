@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Netizen! 👋</h1>
+<h1 align="center">Hello, Netizen! 👋🏾</h1>
 
 <!--
 **GLaDO8/GLaDO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
