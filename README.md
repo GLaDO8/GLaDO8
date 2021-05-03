@@ -6,7 +6,7 @@
 
 
 
-I'm Shreyas Gupta - a HCI researcher and designer and developer studying at IIIT Bangalore, India. I like telling stories through visual art, love trying out new food and occasionaly write about my experiences [here](https://shreyas.design). I'm currently doing my Master's Thesis in collaboration with the HCI division at Gothenburg University, and tinkering around SwiftUI and ReactJS. 
+I'm Shreyas Gupta - a HCI researcher, designer and developer studying at IIIT Bangalore, India. I like telling stories through visual art and Data, love trying out new food and occasionaly write about my experiences [here](https://shreyas.design). I am currently working on my Master's Thesis in collaboration with the HCI division at Gothenburg University, and tinkering around SwiftUI, Flutter an React. 
 
 
 <p align="center">💫 Get in touch - <span><a href="https://twitter.com/awwmaaigawwd">🐦 Twitter</a></span>, <a href="shreyas.gupta@iiitb.org"> ✉️ Email </a></span></p>
