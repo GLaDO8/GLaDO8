@@ -1,11 +1,3 @@
-<h1 align="center">Hello, Netizen! 👋🏾</h1>
-
-<!--
-**GLaDO8/GLaDO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
 I'm Shreyas Gupta - a **HCI researcher**, **Developer** and a **Product Designer** helping sales teams through conversational intelligence at **Clari** 🚀💙. I am also currently working on my Master's Thesis in collaboration with the HCI division at Gothenburg University, while tinkering around with SwiftUI, Flutter and React. 
 
 I like telling stories through visual art and Data, love trying out new food and occasionaly write about my experiences [here](https://shreyas.design). 
